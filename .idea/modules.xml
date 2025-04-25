@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSpringInterviewPrep.iml" filepath="$PROJECT_DIR$/JavaSpringInterviewPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passbyvalue/passbyvalue.iml" filepath="$PROJECT_DIR$/passbyvalue/passbyvalue.iml" />
     </modules>
   </component>
 </project>
